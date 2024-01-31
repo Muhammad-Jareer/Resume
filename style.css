@@ -35,6 +35,9 @@
     border: 5px solid white;
     box-shadow: 1px 7px 11px 3px #0c0e0e;
 }
+.contact {
+    text-align: justify;
+}
 .about {
     position: relative;
     top: 10%;
